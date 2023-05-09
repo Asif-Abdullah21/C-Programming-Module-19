@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>  //without recursion
 int main()
 {
     int n,m;
